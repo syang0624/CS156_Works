@@ -1,1 +1,1 @@
-### This repo includes pre-class works and assignments for CS156, Machine Learning course at Minerva University.
+### This repo includes pre-class works and assignments for CS156, machine learning course at Minerva University.
